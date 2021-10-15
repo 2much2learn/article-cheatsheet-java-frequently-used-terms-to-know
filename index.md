@@ -21,7 +21,7 @@ Below are few frequently used or referred terms that every Java developer comes 
 
 ## A
 
-__Agile Development__
+### Agile Development
 
 Agile is an iterative approach to project management and software development that helps teams deliver value to their customers faster and with fewer headaches.
 
@@ -38,43 +38,43 @@ Below are the __four scrum ceremonies__ that occur in each sprint.
 * Sprint Review
 * Sprint Retrospective
 
-__Aspect Oriented Programming (AOP)__
+### Aspect Oriented Programming (AOP)
 
 ## B
 
-__Bill Of Materials (BOM)__
+### Bill Of Materials (BOM)
 
 ## C
 
-__Cloud Native__
+### Cloud Native
 
 The term cloud native refers to the concept of __building and running applications__ to take advantage of the distributed computing offered by the cloud delivery model. Cloud native apps are designed and built to exploit the scale, elasticity, resiliency, and flexibility the cloud provides.
 
-__Container__
+### Container
 
 A container is a software package that __contains everything the software needs to run__. This includes the executable program as well as system tools, libraries, and settings
 
-__Continuous integration (CI)__
+### Continuous integration (CI)
 
 A software engineering practice in which frequent, isolated changes are immediately tested and reported on when they are added to a larger code base.
 
-__Continuous Delivery (CD)__
+### Continuous Delivery (CD)
 
 A software engineering approach in which continuous integration, automated testing, and automated deployment capabilities allow software to be developed and deployed rapidly, reliably, and repeatedly with minimal human intervention.
 
-__Cross-Origin Resource Sharing (CORS)__
+### Cross-Origin Resource Sharing (CORS)
 
 ## D
 
-__Distributed Tracing__
+### Distributed Tracing
 
-__Distributed System__
+### Distributed System
 
-__Domain-Driven Design__
+### Domain-Driven Design
 
-__Dependency Injection__ 
+### Dependency Injection
 
-__DevOps__
+### DevOps
 
 DevOps is about removing the barriers between traditionally siloed teams, development and operations. Under a DevOps model, development and operations teams work together across the entire software application life cycle, from development and test through deployment to operations
 
@@ -84,9 +84,9 @@ DevOps is about removing the barriers between traditionally siloed teams, develo
 
 ## F
 
-__Fault isolation__
+### Fault isolation
 
-__Fault Tolerant__
+### Fault Tolerant
 
 ## G
 
@@ -94,9 +94,9 @@ __Fault Tolerant__
 
 ## I
 
-__Inversion of Control__
+### Inversion of Control
 
-__Infrastructure as Code (IaC)__
+### Infrastructure as Code (IaC)
 
 ## J
 
@@ -106,23 +106,23 @@ __Infrastructure as Code (IaC)__
 
 ## M
 
-__Monolithic__
+### Monolithic
 
-__Microservices__
+### Microservices
 
 ## N
 
 ## O
 
-__Object Oriented Programming__
+### Object Oriented Programming
 
 Object Oriented programming (OOP) is a programming paradigm that relies on the concept of classes and objects. It is used to structure a software program into simple, reusable pieces of code blueprints (usually called classes), which are used to create individual instances of objects.
 
-__Orchestration__
+### Orchestration
 
-__Obfuscation__
+### Obfuscation
 
-__Open Authorization (OAuth)__
+### Open Authorization (OAuth)
 
 ## P
 
@@ -132,11 +132,11 @@ __Open Authorization (OAuth)__
 
 ## S
 
-__Security Assertion Markup Language (SAML)__
+### Security Assertion Markup Language (SAML)
 
-__Serverless__: 
+### Serverless
 
-__Site Reliability Engineering (SRE)__
+### Site Reliability Engineering (SRE)
 
 ## T
 
@@ -146,7 +146,7 @@ __Site Reliability Engineering (SRE)__
 
 ## W
 
-__Waterfall__
+### Waterfall
 
 ## X
 
